@@ -3,26 +3,26 @@ title: Smart Contracts
 slug: /examples/smart-contracts
 ---
 
-The ink! repository contains an <a href="https://github.com/paritytech/ink/tree/master/examples">examples folder</a>
-in which you find a number of examples written in ink!.
-Some of the most interesting ones:
+El repositorio de ink! contiene una <a href="https://github.com/paritytech/ink/tree/master/examples">carpeta</a>
+en donde puedes encontrar ejemplos de contratos escritos en ink!. 
+Algunos de los mas interesantes son:
 
 <div className="row">
     <div className="col text--center">
         <a href="https://github.com/paritytech/ink/tree/master/examples/flipper"><img src="/img/icons/flipper.svg" width="100" /></a>
         <p>
-            Our "Hello, World!".<br/>
+            Nuestro "Hola, Mundo!".<br/>
             <a href="https://github.com/paritytech/ink/tree/master/examples/flipper">
-                » view example
+                » Ver ejemplo
             </a>
         </p>
     </div>
     <div className="col text--center">
         <a href="https://github.com/paritytech/ink/tree/master/examples/erc20"><img src="/img/icons/erc20.svg" width="100" /></a>
         <p>
-            An ERC-20 implementation.<br/>
+            Una implementación ERC-20.<br/>
             <a href="https://github.com/paritytech/ink/tree/master/examples/erc20">
-                » view example
+                » Ver ejemplo
             </a>
         </p>
     </div>
@@ -30,11 +30,11 @@ Some of the most interesting ones:
         <a href="https://github.com/paritytech/ink/tree/master/examples/erc721"><img src="/img/icons/nft.svg" width="100" /></a>
         <p>
             <a href="https://github.com/paritytech/ink/tree/master/examples/erc721">
-                » view ERC-721
+                » Ver ERC-721
             </a>
             <br/>
             <a href="https://github.com/paritytech/ink/tree/master/examples/erc1155">
-                » view ERC-1155
+                » Ver ERC-1155
             </a>
         </p>
     </div>
@@ -46,18 +46,18 @@ Some of the most interesting ones:
     <div className="col text--center">
         <a href="https://github.com/paritytech/ink/tree/master/examples/upgradeable-contracts"><img src="/img/icons/upgradable.svg" width="100" /></a>
         <p>
-            An upgradeable contract.<br/>
+            Un contrato actualizable.<br/>
             <a href="https://github.com/paritytech/ink/tree/master/examples/upgradeable-contracts">
-                » view example
+                » Ver ejemplo
             </a>
         </p>
     </div>
     <div className="col text--center">
         <a href="https://github.com/paritytech/ink/tree/master/examples/multisig"><img src="/img/icons/multisig.svg" width="100" /></a>
         <p>
-            A multi-signature wallet.<br/>
+            Una billetera multi-firma.<br/>
             <a href="https://github.com/paritytech/ink/tree/master/examples/multisig">
-                » view example
+                » Ver ejemplo
             </a>
         </p>
     </div>
